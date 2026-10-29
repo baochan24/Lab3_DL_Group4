@@ -1,0 +1,8 @@
+{
+  "test_samples": 200,
+  "accuracy": 0.89,
+  "precision_positive": 0.8938053097345132,
+  "recall_positive": 0.9099099099099099,
+  "f1_positive": 0.9017857142857143,
+  "best_checkpoint": "./results_imdb\\checkpoint-125"
+}

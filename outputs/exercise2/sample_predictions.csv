@@ -1,0 +1,5 @@
+﻿text,sentiment,negative_probability,positive_probability
+This movie is wonderful. I really enjoyed it!,POSITIVE,0.0937,0.9063
+This film is terrible and completely boring.,NEGATIVE,0.8998,0.1002
+"The story was interesting, and the actors did a great job.",POSITIVE,0.1164,0.8836
+I regret watching this movie. It was a waste of time.,NEGATIVE,0.9051,0.0949
