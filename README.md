@@ -2,6 +2,10 @@
 
 Bài thực hành Deep Learning của nhóm 4: sử dụng mô hình pretrained để phân tích cảm xúc và fine-tune DistilBERT cho bài toán phân loại văn bản nhị phân.
 
+## Báo cáo chi tiết
+
+Đọc [Báo cáo Lab 3 — Exercise 1 và Exercise 2](reports/Lab3_Report.md): giải thích từng bước từ tokenization đến suy luận và fine-tuning, cấu hình thực tế, kết quả huấn luyện/test, phân tích metrics, lưu mô hình, giới hạn và phụ lục truy vết các cell của hai notebook.
+
 ## 1. Nội dung bài thực hành
 
 | Bài | Notebook | Nội dung |
